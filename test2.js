@@ -4,3 +4,5 @@ window.onload = function() {
         alert('this is a test code')
     })
 }
+
+console.log('this is a test code of dev branch')
